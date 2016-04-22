@@ -1,4 +1,4 @@
-# Rockwood's dotfiles.
+# Katie's dotfiles.
 
 Based on [Mathias's dotfiles](https://github.com/mathiasbynens/dotfiles.git)
 
@@ -10,7 +10,7 @@ You can clone the repository wherever you want. (I like to keep it in `~/devel/d
 pull in the latest version (including submodules) and copy the files to your home folder. Vim plugins are managed via
 [Plug](https://github.com/junegunn/vim-plug).
 
-    git clone https://github.com/rockwood/dotfiles.git cd dotfiles source bootstrap.sh
+    git clone https://github.com/kspohlman/dotfiles.git cd dotfiles source bootstrap.sh
 
 To update, `cd` into your local `dotfiles` repository and then:
 
